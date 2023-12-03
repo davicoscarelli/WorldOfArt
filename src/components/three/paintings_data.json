@@ -1,0 +1,128 @@
+[
+  {
+    "path": "koosha1.jpg",
+    "artist": "Koosha Azim",
+    "title": "“I come in peace”",
+    "position": [5.1, 1.7, -5.7],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "path": "boxes1.png",
+    "artist": "Nara",
+    "title": "“Boxes” series",
+    "position": [-1, 1.7, -5.7],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "path": "boxes2.png",
+    "artist": "Nara",
+    "title": "“Boxes” series",
+    "position": [-8, 1.7, -5.7],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "path": "lexi_may.png",
+    "artist": " Lexi",
+    "title": "“may be it can all exist together”",
+    "position": [-14.3, 1.7, -5.7],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "path": "lexi_all.png",
+    "artist": "Lexi",
+    "title": "“some times we all feel all alone”",
+    "position": [-20, 1.7, -5.7],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "path": "koosha3.jpg",
+    "artist": "Koosha Azim",
+    "title": "“Inner Child”",
+    "position": [5.5, 1.7, 5.7],
+    "rotation": [0, 3.14159, 0]
+  },
+  {
+    "path": "cheese.png",
+    "artist": "Lucille",
+    "title": "“Cheese”",
+    "position": [-6, 1.7, 5.7],
+    "rotation": [0, 3.14159, 0]
+  },
+  {
+    "path": "gang.png",
+    "artist": "Nara",
+    "title": "“Gang2”",
+    "position": [-10, 1.7, 5.7],
+    "rotation": [0, 3.14159, 0]
+  },
+  {
+    "path": "koosha2.jpg",
+    "artist": "Koosha Azim",
+    "title": "“Pyramids”",
+    "position": [-21.7, 1.7, 5.7],
+    "rotation": [0, 3.14159, 0]
+  },
+  {
+    "path": "heart.jpg",
+    "artist": "Mako",
+    "title": "“Heart”",
+    "position": [-21.7, 1.7, 6.48],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "path": "metha.jpg",
+    "artist": "Nara",
+    "title": "“methamphetamine”",
+    "position": [-10, 1.7, 6.48],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "path": "mountain.png",
+    "artist": "Lexi",
+    "title": "“we can carry it up the mountain”",
+    "position": [-6, 1.7, 6.48],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "path": "lexi.png",
+    "artist": "Lexi",
+    "title": "“and some times we need that”",
+    "position": [5.5, 1.7, 6.48],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "path": "roar.png",
+    "artist": "Liviu",
+    "title": "“Roar”",
+    "position": [4.7, 1.7, 17.3],
+    "rotation": [0, 3.14159, 0]
+  },
+  {
+    "path": "homes_lexi.png",
+    "artist": "Lexi",
+    "title": "“we carry our homes on our backs”",
+    "position": [-0.9, 1.7, 17.3],
+    "rotation": [0, 3.14159, 0]
+  },
+  {
+    "path": "enough_lexi.png",
+    "artist": "Lexi",
+    "title": "“some times we forget that we have enough”",
+    "position": [-7, 1.7, 17.3],
+    "rotation": [0, 3.14159, 0]
+  },
+  {
+    "path": "koosha4.jpg",
+    "artist": "Koosha Azim",
+    "title": "“PsychZOO”",
+    "position": [-14.2, 1.7, 17.3],
+    "rotation": [0, 3.14159, 0]
+  },
+  {
+    "path": "wherever.png",
+    "artist": "Lexi",
+    "title": "“where ever we go our lives come in us”",
+    "position": [-20.5, 1.7, 17.3],
+    "rotation": [0, 3.14159, 0]
+  }
+]

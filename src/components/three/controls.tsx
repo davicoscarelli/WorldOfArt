@@ -17,8 +17,13 @@ const Controls = ({ floor }: ControlsProps): JSX.Element => {
   const deviceOrientationControls = useRef<DeviceOrientationControlsProps>();
   const hasCursor = matchMedia("(pointer:fine)").matches;
 
+  // defaultCamera.position.set(-33, Config.player.personHeight, -5);
+  // defaultCamera.rotation.set(0, 3.6, 0);
+
   useEffect(() => {
-    defaultCamera.position.set(0, Config.player.personHeight, 0);
+    defaultCamera.position.set(-33, Config.player.personHeight, -5);
+    defaultCamera.rotation.set(0, 3.6, 0);
+
     if (hasCursor) return;
 
     const reConnectListeners = () => {

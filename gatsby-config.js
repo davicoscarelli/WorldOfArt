@@ -1,9 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Ani's Gallery`,
-    description: "A Gatsby web application hosted at www.ani.gallery",
-    author: `Daniel Kolev`,
-    siteUrl: `https://ani.gallery/`,
+    title: `Minerva Art`,
+    description: "A Gatsby web application",
+    author: `Davi Coscarelli`,
   },
   plugins: [
     `gatsby-plugin-resolve-src`,

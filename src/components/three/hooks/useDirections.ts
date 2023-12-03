@@ -55,8 +55,6 @@ const useDirections = () => {
       };
     };
 
-    // I am using this query here as a way to differentiate between desktop and mobile but might not be the best thing to do
-    // to do: refactor
     const hasCursor = matchMedia("(pointer:fine)").matches;
     hasCursor ? connectDesktopEvents() : connectMobileEvents();
   }, []);
